@@ -1,0 +1,100 @@
+body {
+    background-color: #c08e43;
+}
+.nav-logo {
+    width: 6%;
+}
+
+
+.title-image {
+    width: 100%;
+    
+}
+.heading-1 {
+    font-family: "montserrat";
+    font-size: 55px;
+    line-height: 1.5;
+    margin-top: 80px;
+    margin-bottom: -20px;
+    margin-left: 20px;
+}
+.heading-2 {
+    font-family: "montserrat-black";
+    font-size: 90px;
+    line-height: 1.5;
+    margin-left: 20px;
+    font-weight: bold;
+}
+.heading-p {
+    font-family: "montserrat";
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.navbar {
+    padding-bottom: 0 0 4.5rem;
+}
+.nav-item {
+    padding: 0 30px;
+}
+
+.nav-link {
+    font-size: 1rem;
+    font-family: "Ubuntu";
+}
+
+.navbar-brand {
+    font-family: "ubuntu";
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-left: 40px;
+}
+/* title section */
+
+
+
+.title-button {
+    margin-top: 40px;
+    padding: 10px 40px 10px 40px;
+    border-radius: 30px;
+    margin-left: 20px;
+    background-color: #e49a2b;
+}
+.box {
+    background-color: #eac57e;
+    padding: 20px 20px 50px 30px;
+    margin-bottom: 20px;
+  
+    border-radius: 30px;
+}
+.title-button:hover {
+    color: black;
+    background-color: bisque;
+}
+
+@media (max-width: 1028px) {
+
+    #.title-image {
+        width: 50%;
+        
+    }
+    .heading-1 {
+        font-family: "montserrat";
+        font-size: 35px;
+        line-height: 1.5;
+        margin-top: 80px;
+        margin-bottom: -20px;
+        margin-left: 20px;
+    }
+    .heading-2 {
+        font-family: "montserrat-black";
+        font-size: 60px;
+        line-height: 1.5;
+        margin-left: 20px;
+        font-weight: bold;
+    }
+    .heading-p {
+        font-family: "montserrat";
+        margin-left: 10px;
+        margin-top: 30px;
+    }
+}
